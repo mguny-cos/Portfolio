@@ -21,6 +21,7 @@
 - CTF 대회 출전 및 수상
 
 # 📚 공부기록
-- 드림핵
-- 논문
 - 코딩
+  C  https://github.com/mguny-cos/CodingStudy_C.git
+  Python  
+- 해킹
