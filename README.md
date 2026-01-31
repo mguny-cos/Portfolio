@@ -22,6 +22,6 @@
 
 # 📚 공부기록
 - 코딩
-  C  https://github.com/mguny-cos/CodingStudy_C.git
+  C  https://github.com/mguny-cos/CodingStudy_C.git\n
   Python  
 - 해킹
