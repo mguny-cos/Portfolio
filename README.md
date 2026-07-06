@@ -20,11 +20,6 @@
 - 석사학위 취득 후 한국항공우주연구원(KARI) 항공우주보안전문가
 - CTF 대회 출전 및 수상
 
-# 📚 공부기록
-- 코딩
-  - C  https://github.com/mguny-cos/CodingStudy_C
-  - Python  
-- 해킹
 
 ## Study
 
