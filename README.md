@@ -31,4 +31,4 @@
 | Subject | Description |
 |---|---|
 | [Hacking_Study](https://github.com/mguny-cos/Hacking_Study) | CTF, Reversing, Docker, Linux study archive |
-| [C_Language_Study](https://github.com/mguny-cos/CodingStudy_C) | C coding study |
+| [C_Language_Study](https://github.com/mguny-cos/CodingStudy_C) | C language coding study |
