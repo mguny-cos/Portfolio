@@ -26,8 +26,9 @@
   - Python  
 - 해킹
 
-## Projects
+## Study
 
-| Project | Description |
+| Subject | Description |
 |---|---|
 | [Hacking_Study](https://github.com/mguny-cos/Hacking_Study) | CTF, Reversing, Docker, Linux study archive |
+| [C_Language_Study](https://github.com/mguny-cos/CodingStudy_C) | C coding study |
