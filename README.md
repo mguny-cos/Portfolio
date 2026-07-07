@@ -21,7 +21,7 @@
 - CTF 대회 출전 및 수상
 
 
-## Study
+## 📖 Study
 
 | Subject | Description |
 |---|---|
